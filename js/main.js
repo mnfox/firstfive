@@ -97,7 +97,7 @@ function swapButtons()
 // removes yes/no button and dispalys restart/save buttons
 function removeButtons() 
 {
-    document.getElementsByTagName("td")[0].innerHTML = "<a href='#' class='btn btn-primary btn-lg' role='button' onclick='restartAll()'><i class='fa fa-repeat'></i> Restart</a><br><br><form action='store.php' method='post'><input type='hidden' name='outcome' value='" + outcomeText + "'><button type='submit' class='btn btn-primary btn-lg'><i class='fa fa-save'></i> Save Results</button></form>";  
+    document.getElementsByTagName("td")[0].innerHTML = "<a href='#' class='btn btn-primary btn-lg' role='button' onclick='restartAll()'><i class='fa fa-repeat'></i> Restart</a><br><br><form action='store.php' method='post'><input type='hidden' name='outcome' value='" + outcomeText + "'>";  
     document.getElementsByTagName("td")[1].innerHTML = "";
     document.getElementsByTagName("td")[2].innerHTML = "";
 }
