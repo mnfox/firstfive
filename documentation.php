@@ -62,9 +62,9 @@
         <h3>General First Five Information</h3>
 
         <!-- video -->
-        <div class="vid">
+<!--         <div class="vid">
           <iframe width="560" height="315" src="//www.youtube.com/embed/Ievz7u_0mkU" allowfullscreen=""></iframe>
-        </div>
+        </div> -->
 
         <!-- blurb -->
         <h5>The first moments of a baby’s life are crucial, and mostly joyous moments, however what are you meant to do when things don’t go as planned? 
