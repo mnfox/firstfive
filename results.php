@@ -46,12 +46,12 @@
             <span class="icon-bar"></span>
             <span class="icon-bar"></span>
           </button>
-          <a class="navbar-brand" href="index.php" onClick="restartAll()">First Five</a>
+          <a class="navbar-brand" href="index.html" onClick="restartAll()">First Five</a>
         </div>
         <div class="navbar-collapse collapse">
           <ul class="nav navbar-nav">
             <li><a href="documentation.php"><i class="fa fa-info"></i> How-To Guide</a></li>
-            <li><a href="index.php" onClick="restartAll()"><i class="fa fa-refresh"></i> NRP Prompts</a></li>
+            <li><a href="index.html" onClick="restartAll()"><i class="fa fa-refresh"></i> NRP Prompts</a></li>
             <li><a href="patient.php"><i class="fa fa-bar-chart-o"></i> Results</a></li>
           </ul>
         </div>
